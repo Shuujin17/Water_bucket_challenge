@@ -47,3 +47,5 @@ La solución del problema se logra a través del método "solve()" en el modelo 
 ![](https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/346092731_129829983424296_8931304771957301946_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGhviIPKgwfB_VMITkuFxcfRV0q0oiWqvJFXSrSiJaq8t_Q_ghIUlmAkjNxlqSYtUw&_nc_ohc=CSCOowbo6loAX8RxSlS&_nc_ht=scontent-mia3-1.xx&oh=00_AfCHwWnEqPjgxOfHoWp3dlK_bXMHZN_ToVoSgNY86uehMw&oe=64601D48)
 
 El código define una clase BucketModel que tiene un constructor que toma la capacidad de dos cubetaas y un nivel objetivo para una de ellas. También tiene un método solve que implementa un algoritmo de búsqueda en anchura para encontrar una solución al problema de llenar una cubeta con la capacidad dada mediante la combinación de operaciones de llenado, vaciado y vertido de las dos cubetas dados. El método devuelve un array con los pasos necesarios para llegar a la solución o un valor booleano falso si no se encuentra una solución.
+
+Gracias por su tiempo
